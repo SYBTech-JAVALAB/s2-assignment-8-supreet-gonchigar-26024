@@ -1,1 +1,11 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xQFJ0blT)
+Enter customer review: madam
+
+--- Review Analysis ---
+Original Review: madam
+Word Count: 1
+Character Count (with spaces): 5
+Character Count (without spaces): 5
+Uppercase: MADAM
+Lowercase: madam
+Reversed Text: madam
+Is Palindrome: true
